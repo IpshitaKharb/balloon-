@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\pro-C35 images"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "p5.play-boilerplate-master"
+	}
+}
